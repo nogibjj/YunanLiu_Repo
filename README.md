@@ -5,3 +5,10 @@
 
 # YunanLiu_Repo
 This is a repository of Yunan Liu
+
+## Week two (just enrolled)
+* Added workflow to readme
+* Setup CodeSpace
+* Learnt to create virtual machine in codespace, wrote Makefile and requirements.txt
+* Learnt to use lint to check the quality of the code
+* Start learning Panda API
