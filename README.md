@@ -14,5 +14,4 @@ This is a repository of Yunan Liu
 * Start learning Panda API
 
 ## Week Three
-* Databricks:
-** https://docs.databricks.com/dev-tools/python-sql-connector.html#id6 (Query Data, Insert Data, etc.)
+* Databricks: https://docs.databricks.com/dev-tools/python-sql-connector.html#id6 (Query Data, Insert Data, etc.)
