@@ -12,3 +12,6 @@ This is a repository of Yunan Liu
 * Learnt to create virtual machine in codespace, wrote Makefile and requirements.txt
 * Learnt to use lint to check the quality of the code
 * Start learning Panda API
+
+## Week Three
+* Databricks: https://docs.databricks.com/dev-tools/python-sql-connector.html#id6 (Query Data, Insert Data, etc.)
