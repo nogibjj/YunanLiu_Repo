@@ -33,4 +33,4 @@ This is a repository of Yunan Liu
 ![fastApiDemoScreenshot](images/Screen%20Shot%202022-09-17%20at%205.47.02%20PM.png)
 
 ![CLIScreenshot](images/Screen%20Shot%202022-09-17%20at%205.44.53%20PM.png)
-![CLIDemoScreenshot](images/Screen Shot 2022-09-17 at 5.49.37 PM.png)
+![CLIDemoScreenshot](images/Screen%20Shot%202022-09-17%20at%205.49.37%20PM.png)
