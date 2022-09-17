@@ -15,3 +15,11 @@ This is a repository of Yunan Liu
 
 ## Week Three
 * Databricks: https://docs.databricks.com/dev-tools/python-sql-connector.html#id6 (Query Data, Insert Data, etc.)
+
+# Project 1 Demo
+* Setup Makefile for lint and module/package install
+* Create requirements.txt file for make install to reference
+* Create querydb.py file to make connection to the Azure databricks
+    * Stored the databricks cluster info in Github secrets and through calling os.getenv"name" to get those cluster info
+    * Printed the first two lines of the table in databricks to check the connection
+![queryScreenshot](/workspaces/YunanLiu_Repo/images/Screen Shot 2022-09-17 at 5.26.13 PM.png)
