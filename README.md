@@ -22,4 +22,4 @@ This is a repository of Yunan Liu
 * Create querydb.py file to make connection to the Azure databricks
     * Stored the databricks cluster info in Github secrets and through calling os.getenv"name" to get those cluster info
     * Printed the first two lines of the table in databricks to check the connection
-![queryScreenshot](images/Screen Shot 2022-09-17 at 5.26.13 PM.png)
+![queryScreenshot](images/Screen%20Shot%202022-09-17%20at%205.26.13%20PM.png)
