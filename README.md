@@ -22,4 +22,15 @@ This is a repository of Yunan Liu
 * Create querydb.py file to make connection to the Azure databricks
     * Stored the databricks cluster info in Github secrets and through calling os.getenv"name" to get those cluster info
     * Printed the first two lines of the table in databricks to check the connection
+
 ![queryScreenshot](images/Screen%20Shot%202022-09-17%20at%205.26.13%20PM.png)
+![querycheckScreenshot](images/Screen%20Shot%202022-09-17%20at%205.41.06%20PM.png)
+
+* Create fastApi_app.py for fastapi application
+* Create query_sql_db.py for CLI demo
+
+![fastApiScreenshot](images/Screen%20Shot%202022-09-17%20at%205.44.38%20PM.png)
+![fastApiDemoScreenshot](images/Screen%20Shot%202022-09-17%20at%205.47.02%20PM.png)
+
+![CLIScreenshot](images/Screen%20Shot%202022-09-17%20at%205.44.53%20PM.png)
+![CLIDemoScreenshot](images/Screen Shot 2022-09-17 at 5.49.37 PM.png)
