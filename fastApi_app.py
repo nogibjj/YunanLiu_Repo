@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
-import querydb
+from querydb import querydb
 
 app = FastAPI()
 
